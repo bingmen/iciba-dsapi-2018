@@ -10,16 +10,16 @@ description: 📱 词霸每日一句，收集时间段 2018-01-01 ~ 当前日期
 # 但这里列出的文件需要被处理）
 include:
   - README.md
-  - README-dsapi-2019.md
+  - README-dsapi-2018.md
 
 # 排除的文件和目录（不参与 Jekyll 构建）
 exclude:
-  - dsapi-json-2019.json
-  - dsapi-fenxiang-2019/
-  - dsapi-json-2019/
-  - dsapi-picture-2019/
-  - dsapi-picture2-2019/
-  - dsapi-picture3-2019/
-  - dsapi-picture4-2019/
-  - dsapi-tts-2019/
+  - dsapi-json-2018.json
+  - dsapi-fenxiang-2018/
+  - dsapi-json-2018/
+  - dsapi-picture-2018/
+  - dsapi-picture2-2018/
+  - dsapi-picture3-2018/
+  - dsapi-picture4-2018/
+  - dsapi-tts-2018/
  
